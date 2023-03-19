@@ -1,3 +1,16 @@
+This is a task app that I built using the MERN (MongoDB, Express, React, Node) stack.
+
+While planning this project my goal was to get familiar with how fullstack applications are structured and how to make them work.
+
+When I first started the project I didn't know how to setup the folder structure, so I started looking through Github MERN project repos just to see how other people did it.
+
+Once I had a rough idea how the project was setup I copied that and took a section of time to get introduced with MongoDB.
+
+I went through MongoDB's Node.js developer path certification, which went through the differences between SQL and NoSQL databases,
+how MongoDB works, setting up a database on MongoDB Atlas, light data modeling, how to query, and a tiny bit of writing data pipelines.
+
+The frontend is built with React using Typescript.
+
 Overview:<br> 
     - Basic Todo app.<br> 
     - Featuring adding, removing and listing tasks.<br> 
